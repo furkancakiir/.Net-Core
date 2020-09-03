@@ -1,0 +1,89 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp3
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+
+
+
+
+			//string msg = "Furkan Çakır";
+
+			//var result = msg.Split(); // boşluk karakterleri silerek bir dizi haline gelir result icinde artık bir dizi icerisindedir msg ..
+			//Console.ReadLine();
+			//Console.WriteLine(result[0]);
+			//Console.WriteLine(result[1]);
+			//Console.ReadLine();
+
+
+
+
+			string[] ad = { "Furkan", "Mehmet", "Caner", "Mustafa" };
+
+
+			//ad[0] = "Furkan";
+			//ad[1] = "Mehmet";
+			//ad[2] = "Mustafa";
+			//ad[3] = "Zeki";
+			//ad[4] = "Merve";
+			//ad[5] = "Melih";
+
+			//for(int i=0; i<ad.Length; i++)
+			//{
+			//	Console.WriteLine(ad[i]);
+			//	Console.ReadLine();
+			//}
+
+			int[] sayilar = { 101, 102, 103, 104,};
+
+			//sayilar[0] = 101;
+			//sayilar[1] = 102;
+			//sayilar[2] = 103;
+			//sayilar[3] = 104;
+
+			//sayilar[4] = 105;
+		
+		     for(int i=0; i<ad.Length; i++)
+			{
+				for(int j=0; j<sayilar.Length;  j++) {
+
+					if (i == j)
+					{
+						Console.WriteLine(ad[i]+" "+sayilar[j]);
+						Console.ReadLine();
+						
+					}
+					
+					 
+				}
+			}
+
+			}
+
+			
+		
+			
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+		}
+	}
+
