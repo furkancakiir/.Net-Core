@@ -1,0 +1,79 @@
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp3
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+
+
+			string[] month = { "Ocak", "Şubat", "Mart", "Nisan", "Mayız", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık" };
+
+			DateTime simdi = DateTime.Now;
+
+
+			//Console.WriteLine(simdi);
+			//Console.WriteLine(simdi.Year);
+			//Console.WriteLine(simdi.Month);
+			//Console.WriteLine(month[simdi.Month - 1]); 
+			//Console.WriteLine(simdi.Day);
+			//Console.WriteLine(simdi.DayOfWeek);
+			//Console.WriteLine(simdi.Hour);
+			//Console.WriteLine(simdi.Minute);
+			//Console.WriteLine(simdi.Second);
+
+			DateTime dt = new DateTime(2018, 2, 22, 14, 4, 21);  // yeni tarih güncellemesi gerçekleştirdik 
+			//DateTime dt1 = dt.AddDays(2); // dt üzerine gün ekledik
+			//DateTime dt1 = dt.AddYears(2); // dt içinedeki var olan tarihe yıl
+
+			//var fark = simdi - dt;
+
+
+			//Console.WriteLine(fark.TotalDays);
+			//Console.WriteLine(fark.TotalHours);
+			//Console.ReadLine();
+
+			//Console.WriteLine(simdi.ToString("d")); // gün ay yıl saat bilgisi gelir
+			//Console.WriteLine(simdi.ToString("D"));  // sadece tarih bilgisi
+			//Console.WriteLine(simdi.ToString("F"));  // gün ay yıl yazı şeklinde gelir. 
+			//Console.WriteLine(simdi.ToString("M"));  //  gün ay yıl saat bilgisi  getirir
+			//Console.WriteLine(simdi.ToString("t"));  // sadece mevcut olan güncel ayı verir
+			//Console.WriteLine(simdi.ToString("T")); // saat milisaniye dakkika tipinde verir
+			//Console.WriteLine(simdi.ToString("Y"));  //  AY YIl bilgisi gelir
+
+			Console.WriteLine(simdi.ToString("hh:mm:ss"));
+			Console.WriteLine(simdi.ToString("ddd MMM %d, yyyy"));
+
+			CultureInfo cultere = new CultureInfo("FR"); // istenilen dile cevirir.
+
+			Console.WriteLine(simdi.ToString("F",cultere));
+
+
+
+			Console.ReadLine();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		}
+	}
+}
+
