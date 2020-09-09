@@ -1,0 +1,7 @@
+c:\users\thuck\source\repos\Koşul\Koşul\obj\Debug\Koşul.csprojAssemblyReference.cache
+c:\users\thuck\source\repos\Koşul\Koşul\obj\Debug\Koşul.csproj.CoreCompileInputs.cache
+c:\users\thuck\source\repos\Koşul\Koşul\bin\Debug\Koşul.exe.config
+c:\users\thuck\source\repos\Koşul\Koşul\bin\Debug\Koşul.exe
+c:\users\thuck\source\repos\Koşul\Koşul\bin\Debug\Koşul.pdb
+c:\users\thuck\source\repos\Koşul\Koşul\obj\Debug\Koşul.exe
+c:\users\thuck\source\repos\Koşul\Koşul\obj\Debug\Koşul.pdb

@@ -1,0 +1,7 @@
+C:\Users\thuck\source\repos\For\For\bin\Debug\For.exe.config
+C:\Users\thuck\source\repos\For\For\bin\Debug\For.exe
+C:\Users\thuck\source\repos\For\For\bin\Debug\For.pdb
+C:\Users\thuck\source\repos\For\For\obj\Debug\For.csprojAssemblyReference.cache
+C:\Users\thuck\source\repos\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\For\For\obj\Debug\For.exe
+C:\Users\thuck\source\repos\For\For\obj\Debug\For.pdb

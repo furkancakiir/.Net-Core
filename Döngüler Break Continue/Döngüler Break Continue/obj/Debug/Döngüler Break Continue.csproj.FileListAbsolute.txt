@@ -1,0 +1,7 @@
+C:\Users\thuck\source\repos\Döngüler Break Continue\Döngüler Break Continue\bin\Debug\Döngüler Break Continue.exe.config
+C:\Users\thuck\source\repos\Döngüler Break Continue\Döngüler Break Continue\bin\Debug\Döngüler Break Continue.exe
+C:\Users\thuck\source\repos\Döngüler Break Continue\Döngüler Break Continue\bin\Debug\Döngüler Break Continue.pdb
+C:\Users\thuck\source\repos\Döngüler Break Continue\Döngüler Break Continue\obj\Debug\Döngüler Break Continue.csprojAssemblyReference.cache
+C:\Users\thuck\source\repos\Döngüler Break Continue\Döngüler Break Continue\obj\Debug\Döngüler Break Continue.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\Döngüler Break Continue\Döngüler Break Continue\obj\Debug\Döngüler Break Continue.exe
+C:\Users\thuck\source\repos\Döngüler Break Continue\Döngüler Break Continue\obj\Debug\Döngüler Break Continue.pdb

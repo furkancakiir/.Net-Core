@@ -1,0 +1,6 @@
+C:\Users\thuck\source\repos\While Uygulama\While Uygulama\bin\Debug\While Uygulama.exe.config
+C:\Users\thuck\source\repos\While Uygulama\While Uygulama\bin\Debug\While Uygulama.exe
+C:\Users\thuck\source\repos\While Uygulama\While Uygulama\bin\Debug\While Uygulama.pdb
+C:\Users\thuck\source\repos\While Uygulama\While Uygulama\obj\Debug\While Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\While Uygulama\While Uygulama\obj\Debug\While Uygulama.exe
+C:\Users\thuck\source\repos\While Uygulama\While Uygulama\obj\Debug\While Uygulama.pdb

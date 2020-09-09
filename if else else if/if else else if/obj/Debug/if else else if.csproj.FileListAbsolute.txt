@@ -1,0 +1,7 @@
+c:\users\thuck\source\repos\if else else if\if else else if\bin\Debug\if else else if.exe.config
+c:\users\thuck\source\repos\if else else if\if else else if\bin\Debug\if else else if.exe
+c:\users\thuck\source\repos\if else else if\if else else if\bin\Debug\if else else if.pdb
+c:\users\thuck\source\repos\if else else if\if else else if\obj\Debug\if else else if.csprojAssemblyReference.cache
+c:\users\thuck\source\repos\if else else if\if else else if\obj\Debug\if else else if.csproj.CoreCompileInputs.cache
+c:\users\thuck\source\repos\if else else if\if else else if\obj\Debug\if else else if.exe
+c:\users\thuck\source\repos\if else else if\if else else if\obj\Debug\if else else if.pdb

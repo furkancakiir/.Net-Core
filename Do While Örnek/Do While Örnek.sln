@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do While Örnek", "Do While Örnek\Do While Örnek.csproj", "{87B81647-276B-43EE-BA92-FE6CF973A95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B81647-276B-43EE-BA92-FE6CF973A95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B81647-276B-43EE-BA92-FE6CF973A95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B81647-276B-43EE-BA92-FE6CF973A95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B81647-276B-43EE-BA92-FE6CF973A95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD2CD05-F46F-419A-BDD9-F99815C772A3}
+	EndGlobalSection
+EndGlobal
