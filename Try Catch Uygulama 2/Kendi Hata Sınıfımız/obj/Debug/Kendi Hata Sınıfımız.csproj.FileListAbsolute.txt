@@ -1,0 +1,6 @@
+C:\Users\thuck\source\repos\Kendi Hata Sınıfımız\Kendi Hata Sınıfımız\bin\Debug\Kendi Hata Sınıfımız.exe.config
+C:\Users\thuck\source\repos\Kendi Hata Sınıfımız\Kendi Hata Sınıfımız\bin\Debug\Kendi Hata Sınıfımız.exe
+C:\Users\thuck\source\repos\Kendi Hata Sınıfımız\Kendi Hata Sınıfımız\bin\Debug\Kendi Hata Sınıfımız.pdb
+C:\Users\thuck\source\repos\Kendi Hata Sınıfımız\Kendi Hata Sınıfımız\obj\Debug\Kendi Hata Sınıfımız.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\Kendi Hata Sınıfımız\Kendi Hata Sınıfımız\obj\Debug\Kendi Hata Sınıfımız.exe
+C:\Users\thuck\source\repos\Kendi Hata Sınıfımız\Kendi Hata Sınıfımız\obj\Debug\Kendi Hata Sınıfımız.pdb

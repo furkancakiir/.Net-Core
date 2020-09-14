@@ -1,0 +1,6 @@
+C:\Users\thuck\source\repos\Hata Fırlatma\Hata Fırlatma\bin\Debug\Hata Fırlatma.exe.config
+C:\Users\thuck\source\repos\Hata Fırlatma\Hata Fırlatma\bin\Debug\Hata Fırlatma.exe
+C:\Users\thuck\source\repos\Hata Fırlatma\Hata Fırlatma\bin\Debug\Hata Fırlatma.pdb
+C:\Users\thuck\source\repos\Hata Fırlatma\Hata Fırlatma\obj\Debug\Hata Fırlatma.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\Hata Fırlatma\Hata Fırlatma\obj\Debug\Hata Fırlatma.exe
+C:\Users\thuck\source\repos\Hata Fırlatma\Hata Fırlatma\obj\Debug\Hata Fırlatma.pdb
